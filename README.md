@@ -27,7 +27,7 @@ Make sure you have the following installed:
 1. Clone the repository or open the project in VS Code
 
    ```bash
-   git clone https://github.com/AreebHanif/Project-management-system.git
+   git clone https://github.com/fahad114433/FYP-PMS.git
    cd project-management-system
    ```
 
